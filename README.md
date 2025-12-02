@@ -1,4 +1,4 @@
-# muscleup
+# muscleUp
 
 a workout tracking app for android that helps you log exercises, sets, and track progression over time.
 
