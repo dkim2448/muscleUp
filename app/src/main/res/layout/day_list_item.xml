@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- layout for displaying a day in the recyclerview -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="8dp"
+    android:padding="16dp"
+    android:background="#2C2C2E">
+
+    <TextView
+        android:id="@+id/dayNameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lower 1/Day 1"
+        android:textColor="#FFD60A"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/exercisePreviewTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="• Seated Hamstring Curls\n• Leg Press"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp" />
+
+</LinearLayout>

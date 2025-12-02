@@ -1,0 +1,32 @@
+<resources>
+    <!-- app name -->
+    <string name="app_name">muscleUp</string>
+
+    <!-- main activity -->
+    <string name="action_add_week">Add Week</string>
+
+    <!-- add week dialog -->
+    <string name="dialog_add_week_title">Add New Week</string>
+    <string name="hint_week_number">Week Number</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+
+    <!-- day list activity -->
+    <string name="action_add_day">Add Day</string>
+    <string name="no_days_yet">No days yet. Tap + to add one.</string>
+
+    <!-- add day dialog -->
+    <string name="dialog_add_day_title">Add New Day</string>
+    <string name="hint_day_name">Day Name</string>
+
+    <!-- day detail activity -->
+    <string name="action_add_workout">Add Workout</string>
+    <string name="no_workouts_yet">No workouts yet. Tap + to add one.</string>
+
+    <!-- add workout dialog -->
+    <string name="dialog_add_workout_title">Add Workout</string>
+    <string name="hint_exercise_name">Exercise Name</string>
+    <string name="hint_weight">Weight (lbs)</string>
+    <string name="hint_reps">Reps</string>
+    <string name="button_save_and_add_set">Save &amp; Add Set</string>
+</resources>
